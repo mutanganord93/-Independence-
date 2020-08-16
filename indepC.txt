@@ -1,0 +1,29 @@
+Liberia,Liberia,United States,26 July 1847,Joseph Jenkins Roberts,Liberian Declaration of Independence
+South Africa,Cape Colony,United Kingdom,31 May 1910,Louis Botha,South Africa Act 1909
+South Africa,Colony of Natal,United Kingdom,31 May 1910,Louis Botha,South Africa Act 1909
+South Africa,Orange River Colony,United Kingdom,31 May 1910,Louis Botha,South Africa Act 1909
+South Africa,Transvaal Colony,United Kingdom,31 May 1910,Louis Botha,South Africa Act 1909
+Egypt,Sultanate of Egypt,United Kingdom,28 February 1922,Fuad I,Egyptian revolution of 1919
+Eritrea,Italian Eritrea,Italy,10 February 1947,Haile Selassie,-
+Libya,Italian Libya,Italy,24 December 1951,Idris,Treaty of Peace with Italy 1947
+Sudan,Anglo-Egyptian Sudan,United Kingdom Republic of Egypt,1 January 1956,Ismail al-Azhari,-
+South Sudan,Anglo-Egyptian Sudan,United Kingdom Republic of Egypt,1 January 1956,Ismail al-Azhari,-
+Cuba,Captaincy General of Cuba,Spain,10 December 1898,Tomás Estrada Palma,Cuban War of Independence
+Jamaica,Jamaica,United Kingdom,6 August 1962,Alexander Bustamante,-
+Trinidad and Tobago,Trinidad and Tobago,United Kingdom,31 August 1962,Eric Williams,-
+Guyana,British Guiana,United Kingdom,26 May 1966,Forbes Burnham,-
+Barbados,Barbados,United Kingdom,30 November 1966,Errol Barrow,-
+Bahamas,Bahamas,United Kingdom,10 July 1973,Lynden Pindling,-
+Grenada,British Windward Islands,United Kingdom,7 February 1974,Eric Gairy,-
+Suriname,Suriname,Netherlands,25 November 1975,Johan Ferrier,-
+Dominica,British Windward Islands,United Kingdom,3 November 1978,Patrick John,-
+Saint Lucia,British Windward Islands,United Kingdom,22 February 1979,John Compton,-
+Saint Vincent and the Grenadines,British Windward Islands,United Kingdom,27 October 1979,Milton Cato,-
+Belize,British Honduras,United Kingdom,21 September 1981,George Cadle Price,-
+Antigua and Barbuda,British Leeward Islands,United Kingdom,1 November 1981,Vere Bird,-
+Ghana,Gold Coast,United Kingdom,6 March 1957,Kwame Nkrumah,1956 Gold Coast legislative election
+Guinea,French West Africa,France,2 October 1958,Ahmed Sékou Touré,1958 Guinean constitutional referendum
+Cameroon,French Cameroons,France,1 January 1960,Ahmadou Ahidjo,-
+Togo,French Togoland,France,27 April 1960,Sylvanus Olympio,-
+Mali,French West Africa,France,20 June 1960,Modibo Keïta,-
+Senegal,French West Africa,France,20 June 1960,Léopold Sédar Senghor,-

@@ -1,0 +1,173 @@
+Liberia,Liberia,United States,26 July 1847,Joseph Jenkins Roberts,Liberian Declaration of Independence
+South Africa,Cape Colony,United Kingdom,31 May 1910,Louis Botha,South Africa Act 1909
+South Africa,Colony of Natal,United Kingdom,31 May 1910,Louis Botha,South Africa Act 1909
+South Africa,Orange River Colony,United Kingdom,31 May 1910,Louis Botha,South Africa Act 1909
+South Africa,Transvaal Colony,United Kingdom,31 May 1910,Louis Botha,South Africa Act 1909
+Egypt,Sultanate of Egypt,United Kingdom,28 February 1922,Fuad I,Egyptian revolution of 1919
+Eritrea,Italian Eritrea,Italy,10 February 1947,Haile Selassie,-
+Libya,Italian Libya,Italy,24 December 1951,Idris,Treaty of Peace with Italy 1947
+Sudan,Anglo-Egyptian Sudan,United Kingdom Republic of Egypt,1 January 1956,Ismail al-Azhari,-
+South Sudan,Anglo-Egyptian Sudan,United Kingdom Republic of Egypt,1 January 1956,Ismail al-Azhari,-
+Tunisia,French Protectorate of Tunisia,France,20 March 1956,Muhammad VIII al-AminHabib Bourguiba,-
+Morocco,French Protectorate in Morocco,France,2 March 1956,Mohammed V,-
+Morocco,Tangier International Zone,France,7 April 1956,Mohammed V,-
+Morocco,Spanish Protectorate in Morocco,France Spain,10 April 1958,Mohammed V,-
+Morocco,Spanish West Africa,Spain,4 January 1969,Mohammed V,Ifni War
+Morocco,Ifni,Spain,4 January 1969,Mohammed V,Ifni War
+Ghana,Gold Coast,United Kingdom,6 March 1957,Kwame Nkrumah,1956 Gold Coast legislative election
+Guinea,French West Africa,France,2 October 1958,Ahmed Sékou Touré,1958 Guinean constitutional referendum
+Cameroon,French Cameroons,France,1 January 1960,Ahmadou Ahidjo,-
+Togo,French Togoland,France,27 April 1960,Sylvanus Olympio,-
+Mali,French West Africa,France,20 June 1960,Modibo Keïta,-
+Senegal,French West Africa,France,20 June 1960,Léopold Sédar Senghor,-
+Madagascar,French Madagascar,France,26 June 1960,Philibert Tsiranana,-
+Democratic Republic of the Congo,Belgian Congo,Belgium,30 June 1960,Patrice Lumumba,Belgo-Congolese Round Table Conference
+Somalia,British Somaliland,United Kingdom,26 June 1960,Muhammad Haji Ibrahim Egal,-
+Somalia,Trust Territory of Somaliland,Italy,1 July 1960,Aden Abdullah Osman Daar,-
+Benin,French West Africa,France,1 August 1960,Hubert Maga,-
+Niger,French West Africa,France,3 August 1960,Hamani Diori,-
+Burkina Faso,French West Africa,France,5 August 1960,Maurice Yaméogo,-
+Ivory Coast,French West Africa,France,7 August 1960,Félix Houphouët-Boigny,-
+Chad,French Equatorial Africa,France,11 August 1960,François Tombalbaye,-
+Central African Republic,French Equatorial Africa,France,13 August 1960,David Dacko,-
+Republic of the Congo,French Equatorial Africa,France,15 August 1960,Fulbert Youlou,-
+Gabon,French Equatorial Africa,France,17 August 1960,Léon Mba,-
+Nigeria,Colony and Protectorate of Nigeria,United Kingdom,1 October 1960,Nnamdi Azikiwe,-
+Nigeria,British Cameroons,United Kingdom,1 June 1961,Nnamdi Azikiwe,-
+Nigeria,British Cameroons,United Kingdom,1 October 1961,Nnamdi Azikiwe,-
+Mauritania,French West Africa,France,28 November 1960,Moktar Ould Daddah,-
+Sierra Leone,Colony and Protectorate of Sierra Leone,United Kingdom,27 April 1961,Milton Margai,-
+Tanganyika,Tanganyika Territory,United Kingdom,9 December 1961,Julius Nyerere,-
+Burundi,Ruanda-Urundi,Belgium,1 July 1962,Mwambutsa IV of Burundi,-
+Rwanda,Ruanda-Urundi,Belgium,1 July 1962,Grégoire Kayibanda,Rwandan Revolution
+Algeria,French Algeria,France,5 July 1962,Ahmed Ben Bella,Algerian War Évian Accords
+Uganda,Protectorate of Uganda,United Kingdom,9 October 1962,Milton Obote,-
+Kenya,Colony and Protectorate of Kenya,United Kingdom,12 December 1963,Jomo Kenyatta,-
+Sultanate of Zanzibar,Sultanate of Zanzibar,United Kingdom,10 December 1963,Jamshid bin Abdullah,-
+Malawi,Nyasaland,United Kingdom,6 July 1964,Hastings Banda,-
+Zambia,Northern Rhodesia,United Kingdom,24 October 1964,Kenneth Kaunda,-
+The Gambia,Gambia Colony and Protectorate,United Kingdom,18 February 1965,Dawda Jawara,-
+Rhodesia Zimbabwe,Southern Rhodesia,United Kingdom,11 November 1965,Ian Smith,Rhodesias Unilateral Declaration of Independence
+Rhodesia Zimbabwe,Southern Rhodesia,United Kingdom,17 April 1980,Robert Mugabe,Lancaster House Agreement
+Botswana,Bechuanaland Protectorate,United Kingdom,30 September 1966,Seretse Khama,-
+Lesotho,Territory of Basutoland,United Kingdom,4 October 1966,Leabua Jonathan,-
+Mauritius,Mauritius,United Kingdom,12 March 1968,Seewoosagur Ramgoolam,-
+Swaziland,Swaziland,United Kingdom,6 September 1968,Sobhuza II,-
+Equatorial Guinea,Spanish Territories of the Gulf of Guinea,Spain,12 October 1968,Francisco Macías Nguema,-
+Guinea-Bissau,Overseas Province of Guinea,Portugal,10 September 1974,Luís Cabral,Guinea-Bissau War of Independence
+Mozambique,State of Mozambique,Portugal,25 June 1975,Samora Machel,Mozambican War of Independence
+Cape Verde,Overseas Province of Cape Verde,Portugal,5 July 1975,Aristides Pereira,Guinea-Bissau War of Independence
+Comoros,French Comoros,France,6 July 1975,Ahmed Abdallah,1974 Comorian independence referendum
+São Tomé and Príncipe,Overseas Province of São Tomé and Príncipe,Portugal,12 July 1975,Manuel Pinto da Costa,-
+Angola,State of Angola,Portugal,11 November 1975,Agostinho Neto,Angolan War of Independence
+Seychelles,Seychelles,United Kingdom,29 June 1976,James Mancha,-
+Djibouti,French Territory of the Afars and the Issas,France,27 June 1977,Hassan Gouled Aptidon,1977 Afars and Issas independence referendum
+Sahrawi Arab Democratic Republic,Spanish Sahara,Spain,27 February 1976 independence,El-Ouali Mustapha Sayed,Western Sahara War
+Sahrawi Arab Democratic Republic,Southern Provinces,Morocco,-,Mohamed Abdelaziz,Western Sahara conflict
+Namibia,South West Africa,South Africa,21 March 1990,Sam Nujoma,U.N. Security Council Resolution 269 South African Border War
+Philippines,Spanish East Indies,Spain,12 June 1898,Emilio Aguinaldo,-
+Yemen,Colony and Protectorate of Aden,British Empire,30 November 1967,Qahtan Mohammed al-Shaabi,Aden Emergency
+Yemen,Kingdom of Yemen,Ottoman Empire,1 November 1918,Yahya I,World War I
+Afghanistan,Afghanistan,British Empire,19 August 1919,Amanullah Khan,Third Anglo-Afghan War
+Iraq,Mandatory Iraq,British Empire,3 October 1932,Faisal I of Iraq,-
+Lebanon,Greater Lebanon,France,22 November 1943,Bechara El Khoury,-
+Syria,Mandate of Syria,France,30 November 1943,Shukri al-Quwatli,Syrian Revolution
+Indonesia,Dutch East Indies,Netherlands,17 August 1945,Sukarno,Indonesian National Revolution
+Indonesia,Dutch East Indies,Netherlands,27 December 1949,Sukarno,Indonesian National Revolution
+Vietnam,French Indochina,France,2 September 1945,Hồ Chí Minh,August Revolution
+Jordan,Emirate of Transjordan,British Empire,25 May 1946,Abdullah I,-
+Philippines,Commonwealth of the Philippines,United States,4 July 1946,Manuel Roxas,-
+Pakistan,India,British Empire,14 August 1947,Liaquat Ali Khan,-
+Bangladeshas,India,British Empire,14 August 1947,Liaquat Ali Khan,-
+India,India,British Empire,15 August 1947,Jawaharlal Nehru,Indian independence movement
+Myanmar,British Burma,British Empire,4 January 1948,U Nu,-
+Sri Lanka,British Ceylon,British Empire,4 February 1948,Don Senanayake,-
+Sri Lanka,British Ceylon,British Empire,22 February 1972,Don Senanayake,-
+Israel,Mandatory Palestine,British Empire Arab League,14 May 1948,David Ben-Gurion,1948 Palestine war
+South Korea,Japanese Korea,Empire of Japan,15 August 1945,Syngman Rhee,Korean independence movement
+South Korea,Japanese Korea,Empire of Japan,15 August 1948,Syngman Rhee,Korean independence movement
+North Korea,Japanese Korea,Empire of Japan,15 August 1945,Kim Il-sung,Korean independence movement
+North Korea,Japanese Korea,Empire of Japan,9 September 1948,Kim Il-sung,Korean independence movement
+China,Manchukuo,Empire of Japan,9 August 1945,Chiang kai shek,Second Sino-Japanese War
+Laos,French Indochina,France,22 October 1953,Sisavang Vong,-
+Cambodia,French Indochina,France,9 November 1953,Norodom Sihanouk,-
+Malaysia,Malaya,British Empire,31 August 1957,Tuanku Abdul Rahman,Malayan Emergency
+Malaysia,Colony of North Borneo,British Empire,16 September 1963,Tuanku Abdul Rahman,Malayan Emergency
+Malaysia,Colony of Sarawak,British Empire,16 September 1963,Tuanku Abdul Rahman,Malayan Emergency
+Cyprus,British Cyprus,British Empire,16 August 1960,Makarios III,-
+Kuwait,Sheikhdom of Kuwait,British Empire,19 June 1961,Abdullah Al-Salim Al-Sabah,-
+Oman,Muscat and Oman,Portugal,26 January 1650,Sultan I bin Saif,Night attack on Muscat
+Oman,Muscat and Oman,British Empire,1962,Said bin Taimur,-
+Singapore,Straits Settlements,British Empire,31 August 1963,Yusof Ishak,-
+Singapore,Straits Settlements,British Empire,9 August 1965,Yusof Ishak,-
+Maldives,Maldives,British Empire,26 July 1965,Muhammad Fareed Didi,-
+Qatar,Qatar,British Empire,3 September 1971,Ahmad bin Ali Al Thani,-
+United Arab Emirates,Trucial States,British Empire,2 December 1971,Zayed bin Sultan Al Nahyan,-
+Bahrain,Bahrain,British Empire,15 August 1971,Isa ibn Salman Al Khalifa,-
+East Timor,Portuguese Timor,Portugal,28 November 1975,Francisco Xavier do Amaral,-
+East Timor,Timor Timur,Indonesia,20 May 2002,Xanana Gusmão,-
+Brunei,Brunei,British Empire,1 January 1984,Hassanal Bolkiah,-
+Hong Kong,British Hong Kong,British Empire,1 July 1997,Tung Chee-hwa,-
+Macau,Portuguese Macau,Portugal,20 December 1999,Edmund Ho,-
+Palestine,West Bank,Jordan,10 June 1967,-,Six-Day War
+Palestine,West Bank,Jordan,15 November 1988,Yasser Arafat,Egypt–Israel Peace Treaty
+Palestine,West Bank,Jordan,-,Mahmoud Abbas,Israeli–Palestinian conflict
+United States,Thirteen Colonies,British Empire,3 September 1783,George Washington,American Revolutionary War
+Haiti,Saint-Domingue,First French Empire,1 January 1804,Jean-Jacques Dessalines,Haitian Revolution
+Paraguay,Viceroyalty of the Río de la Plata,Spanish Empire,14 May 1811,Junta,Paraguay campaign
+Argentina,Viceroyalty of the Río de la Plata,Spanish Empire,25 May 1810,Juan Martín de Pueyrredón,Argentine War of Independence
+Chile,Captaincy General of Chile,Spanish Empire,12 February 1818,Bernardo OHiggins,Chilean War of Independence
+Colombia,Viceroyalty of New Granada,Spanish Empire,7 August 1819,Simón Bolívar,Bolívars campaign to liberate New Granada
+Venezuela,Captaincy General of Venezuela,Spanish Empire,24 June 1821,Simón Bolívar,Venezuelan War of Independence, Battle of Carabobo
+Costa Rica,Captaincy General of Guatemala,Spanish Empire,15 September 1821,Gabino Gaínza,Act of Independence of Central America
+Guatemala,Captaincy General of Guatemala,Spanish Empire,15 September 1821,Gabino Gaínza,Act of Independence of Central America
+Nicaragua,Captaincy General of Guatemala,Spanish Empire,15 September 1821,Gabino Gaínza,Act of Independence of Central America
+Honduras,Captaincy General of Guatemala,Spanish Empire,15 September 1821,Gabino Gaínza,Act of Independence of Central America
+El Salvador,Captaincy General of Guatemala,Spanish Empire,15 September 1821,Gabino Gaínza,Act of Independence of Central America
+Mexico,Viceroyalty of New Spain,Spanish Empire,27 September 1821,Agustín I,Mexican War of Independence
+Dominican Republic,Captaincy General of Santo Domingo,Spanish Empire,20 November 1821,José Núñez de Cáceres,-
+Panama,Viceroyalty of New Granada,Spanish Empire,28 November 1821,Simón Bolívar,-
+Ecuador,Viceroyalty of New Granada,Spanish Empire,14 May 1822,Simón Bolívar,Ecuadorian War of Independence
+Peru,Viceroyalty of Peru,Spanish Empire,9 December 1824,Simón Bolívar,Peruvian War of Independence
+Bolivia,Viceroyalty of the Río de la Plata,Spanish Empire,6 August 1825,Simón Bolívar,Bolivian War of Independence
+Brazil,United Kingdom of Portugal, Brazil and the Algarves,Portuguese Empire,29 August 1825,Pedro I,Brazilian War of Independence
+Uruguay,Viceroyalty of the Río de la Plata,Spanish Empire,18 May 1811,José Gervasio Artigas,Battle of Las Piedras
+Uruguay,Cisplatina Province,Empire of Brazil,27 August 1828,Juan Antonio Lavalleja,Cisplatine War
+Dominican Republic,Captaincy General of Santo Domingo,Spanish Empire,16 August 1865,José María Cabral,Dominican Restoration War
+Canada,Province of Canada,United Kingdom,1 July 1867,John A. Macdonald,Canadian Confederation
+Canada,New Brunswick,United Kingdom,1 July 1867,John A. Macdonald,Canadian Confederation
+Canada,Nova Scotia,United Kingdom,1 July 1867,John A. Macdonald,Canadian Confederation
+Cuba,Captaincy General of Cuba,Spain,10 December 1898,Tomás Estrada Palma,Cuban War of Independence
+Jamaica,Jamaica,United Kingdom,6 August 1962,Alexander Bustamante,-
+Trinidad and Tobago,Trinidad and Tobago,United Kingdom,31 August 1962,Eric Williams,-
+Guyana,British Guiana,United Kingdom,26 May 1966,Forbes Burnham,-
+Barbados,Barbados,United Kingdom,30 November 1966,Errol Barrow,-
+Bahamas,Bahamas,United Kingdom,10 July 1973,Lynden Pindling,-
+Grenada,British Windward Islands,United Kingdom,7 February 1974,Eric Gairy,-
+Suriname,Suriname,Netherlands,25 November 1975,Johan Ferrier,-
+Dominica,British Windward Islands,United Kingdom,3 November 1978,Patrick John,-
+Saint Lucia,British Windward Islands,United Kingdom,22 February 1979,John Compton,-
+Saint Vincent and the Grenadines,British Windward Islands,United Kingdom,27 October 1979,Milton Cato,-
+Belize,British Honduras,United Kingdom,21 September 1981,George Cadle Price,-
+Antigua and Barbuda,British Leeward Islands,United Kingdom,1 November 1981,Vere Bird,-
+Saint Kitts and Nevis,British Leeward Islands,United Kingdom,19 September 1983,Robert Llewellyn Bradshaw,-
+New Zealand,Dominion of New Zealand,United Kingdom,-,-,gradual process
+Australia,Australia,United Kingdom,-,-,gradual process
+Indonesia,Dutch East Indies,Netherlands,17 August 1945,Sukarno,Indonesian National Revolution
+Samoa,Western Samoa Trust Territory,New Zealand,1 January 1962,Malietoa Tanumafili II,peaceful campaign by the Mau movement
+Samoa,Western Samoa Trust Territory,New Zealand,1 January 1962,Tui Atua Tupua Tamasese Meaole,peaceful campaign by the Mau movement
+Nauru,Nauru Trust Territory,Australia,31 January 1968,Hammer DeRoburt,peaceful campaign
+Tonga,Kingdom of Tonga,United Kingdom,4 June 1970,Taufaʻahau Tupou IV,request
+Fiji,Fiji,United Kingdom,10 October 1970,Kamisese Mara,British initiative and negotiation
+Papua New Guinea,Trust Territory of Papua and New Guinea,Australia,16 September 1975,Michael Somare,Australian initiative
+Papua New Guinea,German New Guinea,German Empire,16 September 1975,Michael Somare,Australian initiative
+Papua New Guinea,Territory of New Guinea,United Kingdom,16 September 1975,Michael Somare,Australian initiative
+Solomon Islands,British Solomon Islands,United Kingdom,7 July 1978,Peter Kenilorea,British initiative
+Tuvalu,Gilbert and Ellice Islands,United Kingdom,1 October 1978,Toaripi Lauti,British initiative
+Kiribati,Gilbert and Ellice Islands,United Kingdom,12 July 1979,Ieremia Tabai,British initiative
+Vanuatu,New Hebrides,United Kingdom France,30 July 1980,George Kalkoa,peaceful campaign by the New Hebrides National Party
+Marshall Islands,Trust Territory of the Pacific Islands,United States,21 October 1986,Amata Kabua,–
+Federated States of Micronesia,Trust Territory of the Pacific Islands,United States,3 November 1986,Tosiwo Nakayama,–
+Cook Islands,Cook Islands,New Zealand,4 August 1965,Albert Henry,–
+Palau,Trust Territory of the Pacific Islands,United States,1 October 1994,Kuniwo Nakamura,–
+Niue,Niue,New Zealand,19 October 1974,Robert Rex,–
